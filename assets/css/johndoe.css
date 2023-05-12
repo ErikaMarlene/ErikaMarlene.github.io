@@ -11376,6 +11376,7 @@ pre .code {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  justify-content: space-between;
   -webkit-box-pack: justify;
   /* -webkit-justify-content: space-between; */
       -ms-flex-pack: justify;
